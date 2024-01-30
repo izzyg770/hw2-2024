@@ -57,6 +57,10 @@ div {
     color: #c4c4c4;
 }
 
+.blue h2 {
+    color: #C4C4C4;
+}
+
 .yellow {
     background-color: #ffff00;
     text-align: right;
@@ -85,6 +89,6 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 14px 0 15px 15px;
+    padding: 15px 0 15px 15px;
     color: #ffffff;
 }
