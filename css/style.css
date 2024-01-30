@@ -1,8 +1,10 @@
 body {
-    font-family: 'Arial', Vedrana, sans-serif;
+    font-family: 'Arial', Verdana, sans-serif;
     background-color: #000000;
     color: #ffffff;
-    margin: 20px 20px 20px 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1 {
@@ -18,7 +20,8 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 10px 10px 0;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 img {
@@ -44,8 +47,8 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-left: 5px;
+    border-bottom: 2px;
 }
 
 .blue {
@@ -65,8 +68,8 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .yellow p {
@@ -74,11 +77,11 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #00D800;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #ffffff;
-    border-top: 2px solid #ffffff;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 footer {
@@ -89,6 +92,8 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 15px 0 15px 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
     color: #ffffff;
 }
